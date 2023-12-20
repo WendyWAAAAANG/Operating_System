@@ -1,0 +1,42 @@
+Producer Thread ID = 1669482240
+Producer Thread ID = 1661089536
+Consumer Thread ID = 1543501568
+Consumer Thread ID = 1652696832
+	Consumer 1652696832 is consuming data 2 at the position 2
+Producer 1669482240 is putting the data 2 at the position 2
+Producer 1661089536 is putting the data 3 at the position 3
+	Consumer 1543501568 is consuming data 1 at the position 3
+Producer 1661089536 is putting the data 4 at the position 4
+	Consumer 1543501568 is consuming data 4 at the position 4
+Producer 1661089536 is putting the data 5 at the position 5
+Producer 1661089536 is putting the data 6 at the position 6
+Producer 1669482240 is putting the data 7 at the position 7
+	Consumer 1652696832 is consuming data 3 at the position 5
+	Consumer 1543501568 is consuming data 5 at the position 6
+Reader Thread ID = 1644304128
+		Reader is reading data 8 at the position 7
+Producer 1669482240 is putting the data 8 at the position 8
+	Consumer 1652696832 is consuming data 6 at the position 7
+	Consumer 1543501568 is consuming data 7 at the position 7
+Producer 1661089536 is putting the data 9 at the position 9
+		Reader is reading data 8 at the position 7
+Producer 1669482240 is putting the data 9 at the position 9
+Producer 1661089536 is putting the data 11 at the position 1
+	Consumer 1543501568 is consuming data 9 at the position 9
+Producer 1661089536 is putting the data 12 at the position 2
+		Reader is reading data 11 at the position 0
+Producer 1669482240 is putting the data 13 at the position 3
+	Consumer 1652696832 is consuming data 8 at the position 0
+Producer 1661089536 is putting the data 14 at the position 4
+	Consumer 1543501568 is consuming data 10 at the position 1
+Producer 1669482240 is putting the data 15 at the position 5
+	Consumer 1652696832 is consuming data 11 at the position 1
+		Reader is reading data 12 at the position 1
+Producer 1661089536 is putting the data 15 at the position 5
+Producer 1669482240 is putting the data 17 at the position 7
+	Consumer 1543501568 is consuming data 12 at the position 3
+		Reader is reading data 14 at the position 3
+Producer 1669482240 is putting the data 18 at the position 8
+Producer 1661089536 is putting the data 19 at the position 9
+	Consumer 1652696832 is consuming data 13 at the position 4
+Producer 1669482240 is putting the data 20 at the position 0

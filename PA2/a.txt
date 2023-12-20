@@ -1,0 +1,533 @@
+Producer Thread ID = 1
+Producer 1 is putting the data 1 at the position 0
+Producer 1 is putting the data 2 at the position 1
+Producer 1 is putting the data 3 at the position 2
+Producer 1 is putting the data 4 at the position 3
+Producer 1 is putting the data 5 at the position 4
+Producer 1 is putting the data 6 at the position 5
+Producer 1 is putting the data 7 at the position 6
+Producer 1 is putting the data 8 at the position 7
+Producer 1 is putting the data 9 at the position 8
+Producer 1 is putting the data 10 at the position 9
+Producer Thread ID = 0
+Reader Thread ID = 0
+Consumer Thread ID = 0
+	Consumer 0 is consuming data 1 at the position 0
+		Reader is reading data 2 at the position 1
+	Consumer 0 is consuming data 2 at the position 1
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+		Reader is reading data 3 at the position 2
+	Consumer 0 is consuming data 3 at the position 2
+		Reader is reading data 4 at the position 3
+		Reader is reading data 4 at the position 3
+		Reader is reading data 4 at the position 3
+		Reader is reading data 4 at the position 3
+	Consumer 0 is consuming data 4 at the position 3
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+Producer 1 is putting the data 11 at the position 0
+Consumer Thread ID = 1
+Producer 1 is putting the data 12 at the position 1
+Producer 0 is putting the data 13 at the position 2
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+		Reader is reading data 5 at the position 4
+	Consumer 1 is consuming data 5 at the position 4
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+		Reader is reading data 6 at the position 5
+	Consumer 1 is consuming data 6 at the position 5
+	Consumer 0 is consuming data 7 at the position 6
+	Consumer 0 is consuming data 8 at the position 7
+		Reader is reading data 9 at the position 8
+	Consumer 0 is consuming data 9 at the position 8
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+		Reader is reading data 10 at the position 9
+	Consumer 0 is consuming data 10 at the position 9
+		Reader is reading data 11 at the position 0
+		Reader is reading data 11 at the position 0
+		Reader is reading data 11 at the position 0
+		Reader is reading data 11 at the position 0
+		Reader is reading data 11 at the position 0
+		Reader is reading data 11 at the position 0
+		Reader is reading data 11 at the position 0
+		Reader is reading data 11 at the position 0
+	Consumer 1 is consuming data 11 at the position 0
+Producer 1 is putting the data 14 at the position 3
+Producer 1 is putting the data 15 at the position 4
+Producer 1 is putting the data 16 at the position 5
+	Consumer 1 is consuming data 12 at the position 1
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+		Reader is reading data 13 at the position 2
+	Consumer 1 is consuming data 13 at the position 2
+		Reader is reading data 14 at the position 3
+		Reader is reading data 14 at the position 3
+		Reader is reading data 14 at the position 3
+		Reader is reading data 14 at the position 3
+		Reader is reading data 14 at the position 3
+		Reader is reading data 14 at the position 3
+	Consumer 0 is consuming data 14 at the position 3
+		Reader is reading data 15 at the position 4
+	Consumer 1 is consuming data 15 at the position 4
+Producer 0 is putting the data 17 at the position 6
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+Producer 0 is putting the data 18 at the position 7
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+Producer 0 is putting the data 19 at the position 8
+		Reader is reading data 16 at the position 5
+Producer 1 is putting the data 20 at the position 9
+		Reader is reading data 16 at the position 5
+Producer 0 is putting the data 21 at the position 0
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+Producer 0 is putting the data 22 at the position 1
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+Producer 0 is putting the data 23 at the position 2
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+Producer 0 is putting the data 24 at the position 3
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+		Reader is reading data 16 at the position 5
+	Consumer 0 is consuming data 16 at the position 5
+		Reader is reading data 17 at the position 6
+		Reader is reading data 17 at the position 6
+		Reader is reading data 17 at the position 6
+		Reader is reading data 17 at the position 6
+		Reader is reading data 17 at the position 6
+	Consumer 0 is consuming data 17 at the position 6
+		Reader is reading data 18 at the position 7
+Producer 1 is putting the data 25 at the position 4
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+Producer 1 is putting the data 26 at the position 5
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+		Reader is reading data 18 at the position 7
+	Consumer 0 is consuming data 18 at the position 7
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+		Reader is reading data 19 at the position 8
+Producer 0 is putting the data 27 at the position 6
+		Reader is reading data 19 at the position 8
+	Consumer 1 is consuming data 19 at the position 8
+Producer 1 is putting the data 28 at the position 7
+	Consumer 1 is consuming data 20 at the position 9
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+		Reader is reading data 21 at the position 0
+	Consumer 1 is consuming data 21 at the position 0
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+		Reader is reading data 22 at the position 1
+	Consumer 1 is consuming data 22 at the position 1
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+Producer 1 is putting the data 29 at the position 8
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+Producer 1 is putting the data 30 at the position 9
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 at the position 2
+		Reader is reading data 23 

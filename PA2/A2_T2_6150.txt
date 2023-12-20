@@ -1,0 +1,32 @@
+producer Thread ID = 551368448
+Producer create an item 1
+Producer create an item 2
+Producer create an item 3
+Producer create an item 4
+Producer create an item 5
+Producer create an item 6
+Producer create an item 7
+Producer create an item 8
+Producer create an item 9
+Producer create an item 10
+consumer Thread ID = 542975744
+	Consumer process an item 1
+	Consumer process an item 2
+Producer create an item 11
+Producer create an item 12
+	Consumer process an item 3
+Producer create an item 13
+	Consumer process an item 4
+Producer create an item 14
+	Consumer process an item 5
+Producer create an item 15
+	Consumer process an item 6
+Producer create an item 16
+	Consumer process an item 7
+Producer create an item 17
+	Consumer process an item 8
+Producer create an item 18
+	Consumer process an item 9
+Producer create an item 19
+	Consumer process an item 10
+Producer create an item 20
